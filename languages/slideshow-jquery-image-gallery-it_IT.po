@@ -742,7 +742,7 @@ msgstr "Youtube Video ID"
 #: views/SlideshowPluginSlideshowSlide/backend_attachment.php:101
 #: views/SlideshowPluginSlideshowSlide/backend_templates.php:135
 msgid "Image slide"
-msgstr "Slideshow mmagine"
+msgstr "Slideshow Immagine"
 
 #: views/SlideshowPluginPostType/slides.php:171
 msgid ""
